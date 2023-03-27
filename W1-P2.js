@@ -26,7 +26,7 @@ REGOLE
  Descrivi cos'è un oggetto in JavaScript, con parole tue.
 */
 //? RISPOSTA 2
-/* Gli oggetti sono dei datatype strutturali di Javascript. Sono in sostanza dei gruppi di variabili che descrivono la stessa entità.
+/* Gli oggetti sono dei datatype strutturati di Javascript. Sono in sostanza dei gruppi di variabili che descrivono la stessa entità.
     Se ad esempio dovessi definire per un membro della classe vari attributi come ad esempio nome, cognome, età, occupazione ecc. mi basterebbe 
     dichiarare un ogetto ed al suo interno dichiarare tutte le variabili che mi servono:
     let student {
